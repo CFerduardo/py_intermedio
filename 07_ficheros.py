@@ -78,4 +78,4 @@ with open("./07_fichero_csv.csv") as my_other_csv:
 #.xml file
 import xml
 
-xml_file = open("./07_fichero_xml.xml", "w+")
+xml_file = open("./07_fichero_xml.xml", "w+") 
