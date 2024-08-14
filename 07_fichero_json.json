@@ -1,0 +1,11 @@
+{
+   "nombre": "camila",
+   "apellido": "silva",
+   "edad": 25,
+   "lenguaje de programcion": "python",
+   "lenguajes": [
+      "swift",
+      "php",
+      "c"
+   ]
+}
